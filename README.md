@@ -7,7 +7,7 @@ Hope you like my profile, and I know it's not much, so if there's anything you w
 Socials
 --
 Discord: XBow#5770
-Tech Support Servr: https://discord.link/freetech
+Tech Support Server: https://discord.link/freetech
 More coming soon!
 <!---
 XBowNIght/XBowNIght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
