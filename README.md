@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @XBowNIght
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning More Python
-- 📫 How to reach me https://dsc.gg/xbowkingdom
+coming soon!
 
 <!---
 XBowNIght/XBowNIght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
