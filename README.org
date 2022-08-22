@@ -10,7 +10,8 @@ I love programming, gaming and lot's of other stuff too!
 - [[#welcome][Welcome!]]
   - [[#i-used-to-be-a][I used to be a...]]
   - [[#some-random-habits-of-mine][Some random habits of mine]]
-- [[#my-socials][My socials]]
+  - [[#my-socials][My socials]]
+- [[#projects][Projects]]
 
 * Welcome!
 This is my GitLab profile. I'm a Linux and FOSS enthusiast, so I have a lot of projects related to that. I also do some programming, which you can find here. I have a long history of what I do online, and I'll be sure to explain that soon.
@@ -28,5 +29,11 @@ Here's some random things I do.
 + Finding the need to add an icon for everything, I can't stand a no-pfp thing.
 + Using Emacs for absolutely everything, I love it.
 
-* My socials
+** My socials
 I'm mostly active on my [[https://guilded.gg/fts/][Guilded]] server, but I also have a [[https://dsc.gg/freetech/][Discord server]]. I'll be adding more to this page, very soon!
+
+* Projects
+I've made a lot of things over the months, here are some of them.
++ My [[https://gitlab.com/charged1/dotfiles/][Dotfiles]] - These are my config files, and I push to this the most.
++ [[https://gitlab.com/chde1/][CHDE]] - This is a project I started, and it is a set of Arch Linux packages with my configs in them.
++ [[https://gitlab.com/charged1/guilded-discord-bridge/][Guilded-Discord Bridge]] - New project that does what the name says.
