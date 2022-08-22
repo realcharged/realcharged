@@ -1,5 +1,6 @@
-#+HTML:<div align=center><a href="https://github.com/emacs-tw/awesome-emacs"><img alt="Charged Logo" width="240" height="240" src=""></a>
+#+HTML:<div align=center><a href="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"><img alt="Charged Logo" width="240" height="240" src="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"></a>
 
 * Charged's GitLab
+This README is a W.I.P.
 
 #+HTML:</div>
