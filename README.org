@@ -1,6 +1,32 @@
 #+HTML:<div align=center><a href="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"><img alt="Charged Logo" width="240" height="240" src="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"></a>
 
 * Charged's GitLab
-This README is a W.I.P.
+I love programming, gaming and lot's of other stuff too!
 
 #+HTML:</div>
+
+* Table of contents :toc:
+- [[#chargeds-gitlab][Charged's GitLab]]
+- [[#welcome][Welcome!]]
+  - [[#i-used-to-be-a][I used to be a...]]
+  - [[#some-random-habits-of-mine][Some random habits of mine]]
+- [[#my-socials][My socials]]
+
+* Welcome!
+This is my GitLab profile. I'm a Linux and FOSS enthusiast, so I have a lot of projects related to that. I also do some programming, which you can find here. I have a long history of what I do online, and I'll be sure to explain that soon.
+
+** I used to be a...
++ Streamer, I loved doing this. I'd stream everyday, because I could.
++ YouTuber, I still am, but I make different content. I'd get so happy when I got 50+ views.
++ Clan owner. Okay, this was cringe af, I wonder why I did this?
+
+** Some random habits of mine
+Well, everyone has theirs, I'm putting mine out there!
+
+Here's some random things I do.
++ Putting a table of contents on every org documents I make.
++ Finding the need to add an icon for everything, I can't stand a no-pfp thing.
++ Using Emacs for absolutely everything, I love it.
+
+* My socials
+I'm mostly active on my [[https://guilded.gg/fts/][Guilded]] server, but I also have a [[https://dsc.gg/freetech/][Discord server]]. I'll be adding more to this page, very soon!
