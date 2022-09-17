@@ -3,6 +3,8 @@
 * Charged's Git
 I love programming, gaming and lot's of other stuff too!
 
+[[https://github.com/realcharged][GitHub]] - [[https://gitlab.com/charged1/][GitLab]] - [[https://codeberg.org/Charged][Codeberg]]
+
 #+HTML:</div>
 
 * Table of contents :toc:
