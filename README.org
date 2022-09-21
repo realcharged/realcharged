@@ -13,6 +13,8 @@ I love programming, gaming and lots of other stuff too!
   - [[#i-used-to-be-a][I used to be a...]]
   - [[#some-random-habits-of-mine][Some random habits of mine]]
   - [[#my-socials][My socials]]
+- [[#hobbies][Hobbies]]
+  - [[#programming-languages][Programming Languages]]
 - [[#projects][Projects]]
 
 * Welcome!
@@ -34,8 +36,26 @@ Here's some random things I do.
 ** My socials
 I'm mostly active on my [[https://guilded.gg/fts/][Guilded]] server, but I also have a [[https://dsc.gg/freetech/][Discord server]]. I'll be adding more to this page, very soon!
 
+* Hobbies
++ Programming (that's why I'm here :)
++ Gaming
++ Sports, mainly football (soccer)
++ Just collaborating and doing stuff!
+
+** Programming Languages
+Here are some of the languages I know and how well.
+| Language   | Knowledge Level                                            |
+|------------+------------------------------------------------------------|
+| Python     | Comfortable, can write simple in it.                       |
+| Bash       | Basics, can write scripts to automate daily tasks.         |
+| Emacs Lisp | Basics, only used to write my (huge) Emacs config.         |
+| JavaScript | Completely new, still learning, maybe I'll make something. |
+
+I also know a bit of HTML and CSS, but they're not programming languages in my book.
+
 * Projects
 I've made a lot of things over the months, here are some of them.
 + My [[https://gitlab.com/charged1/dotfiles/][Dotfiles]] - These are my config files, and I push to this the most.
 + [[https://gitlab.com/chde1/][CHDE]] - This is a project I started, and it is a set of Arch Linux packages with my configs in them.
 + [[https://gitlab.com/charged1/guilded-discord-bridge/][Guilded-Discord Bridge]] - New project that does what the name says.
++ Suckless builds - links coming soon.
