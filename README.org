@@ -59,7 +59,7 @@ A free, 24/7 tech support server I manage.
 Here are some of the languages I know and how well.
 | Language   | Knowledge Level                                            |
 |------------+------------------------------------------------------------|
-| Python     | Comfortable, can write simple in it.                       |
+| Python     | Comfortable, can write simple programs in it.              |
 | Bash       | Basics, can write scripts to automate daily tasks.         |
 | Emacs Lisp | Basics, only used to write my (huge) Emacs config.         |
 | JavaScript | Completely new, still learning, maybe I'll make something. |
