@@ -41,7 +41,7 @@ Here's some random things I do.
 + [[https://matrix.to/#/@xbow:envs.net][Matrix]] @XBow:envs.net
 + [[https://fosstodon.org/@Charged][Mastodon]] @charged@fosstodon.org
 + [[https://twitter.com/charged1][Twitter]] @charged1
-+ Discord @charged#5770
++ Discord @Charged#5770
 
 ** FreeTech Studios
 A free, 24/7 tech support server I manage.
