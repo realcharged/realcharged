@@ -84,6 +84,8 @@ When I started to use Linux, I sure loved it, but I didn't really care about it'
 | Google               | DuckDuckGo      |
 
 * Projects
+[[https://github-readme-stats.vercel.app/api?username=realcharged][https://github.com/anuraghazra/github-readme-stats]]
+
 I've made a lot of things over the months, here are some of them.
 + My [[https://gitlab.com/charged1/dotfiles/][Dotfiles]] - These are my config files, and I push to this the most.
 + [[https://gitlab.com/chde1/][CHDE]] - This is a project I started, and it is a set of Arch Linux packages with my configs in them.
