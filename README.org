@@ -13,8 +13,12 @@ I love programming, gaming and lots of other stuff too!
   - [[#i-used-to-be-a][I used to be a...]]
   - [[#some-random-habits-of-mine][Some random habits of mine]]
   - [[#my-socials][My socials]]
+  - [[#freetech-studios][FreeTech Studios]]
 - [[#hobbies][Hobbies]]
   - [[#programming-languages][Programming Languages]]
+- [[#linux-and-foss][Linux and FOSS]]
+  - [[#about-my-gnulinux-experience][About my GNU/Linux experience]]
+  - [[#my-love-for-free-and-open-source-software-foss][My Love for Free and Open Source Software (FOSS)]]
 - [[#projects][Projects]]
 
 * Welcome!
@@ -34,7 +38,16 @@ Here's some random things I do.
 + Using Emacs for absolutely everything, I love it.
 
 ** My socials
-I'm mostly active on my [[https://guilded.gg/fts/][Guilded]] server, but I also have a [[https://dsc.gg/freetech/][Discord server]]. I'll be adding more to this page, very soon!
++ [[https://matrix.to/#/@xbow:envs.net][Matrix]] @XBow:envs.net
++ [[https://fosstodon.org/@Charged][Mastodon]] @charged@fosstodon.org
++ [[https://twitter.com/charged1][Twitter]] @charged1
++ Discord @charged#5770
+
+** FreeTech Studios
+A free, 24/7 tech support server I manage.
++ [[https://dsc.gg/freetech][Discord Server]]
++ [[https://guilded.gg/fts][Guilded Server]]
++ [[https://matrix.to/#/#freetech-studios:envs.net][Matrix Space]]
 
 * Hobbies
 + Programming (that's why I'm here :)
@@ -52,6 +65,23 @@ Here are some of the languages I know and how well.
 | JavaScript | Completely new, still learning, maybe I'll make something. |
 
 I also know a bit of HTML and CSS, but they're not programming languages in my book.
+
+* Linux and FOSS
+I've always loved tinkering with my system. Discovering Linux was the best thing I could do on a computer.
+
+** About my GNU/Linux experience
+Linux has been a long journey for me, I started about a year ago on Linux mint.  I didn't understand many key concepts that I use everyday today. I sometimes wonder how I learnt all this stuff. I currently use ArcoLinux (based on Arch Linux) with a (mainly) Qtile desktop. Qtile is a tiling window manager written and configured in Python. If you read the [[#programming-languages][section above]], you would know why Qtile is my choice! I chose an Arch based distro because of its rolling release form, meaning there is no release. The AUR is also a really nice idea and still amazes me today.
+
+** My Love for Free and Open Source Software (FOSS)
+When I started to use Linux, I sure loved it, but I didn't really care about it's freedom and open-sourceness. It was only a few months ago I came to realize how awesome free software is, and how it differs from proprietary software. I try to use as much FOSS as I can. Here's a few alternatives I use that keep me away from proprietary software.
+
+| Proprietary Software | FOS Alternative |
+|----------------------+-----------------|
+| Google Chrome        | Mozilla Firefox |
+| YouTube              | Odysee (LBRY)   |
+| Twitter              | Mastodon        |
+| Windows              | GNU/Linux!      |
+| Google               | DuckDuckGo      |
 
 * Projects
 I've made a lot of things over the months, here are some of them.
