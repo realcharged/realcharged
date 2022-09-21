@@ -1,7 +1,7 @@
 #+HTML:<div align=center><a href="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"><img alt="Charged Logo" width="240" height="240" src="https://gitlab.com/charged1/charged1/-/raw/main/logo.png"></a>
 
 * Charged's Git
-I love programming, gaming and lot's of other stuff too!
+I love programming, gaming and lots of other stuff too!
 
 [[https://github.com/realcharged][GitHub]] - [[https://gitlab.com/charged1/][GitLab]] - [[https://codeberg.org/Charged][Codeberg]]
 
