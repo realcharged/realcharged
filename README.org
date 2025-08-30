@@ -3,8 +3,10 @@
 * Charged's Git
 **I HAVE ABANDONED USING GITHUB, PLEASE CHECK OUT THE FOLLOWING LINKS FOR MY LATEST GIT REPOSITORIES AND PROJECTS.**
 
-[[https://gitlab.com/charged1/][GitLab]] - [[https://codeberg.org/Charged][Codeberg]]
+[[https://worktree.ca/charged][Worktree]]
 
 ** Why?
 I have been using GitLab since 2022 and just prefer a fully open source alternative, as I do not use the extra GitHub features offered.
 I have not properly used GitHub for years and just decided to make it clear with this edit.
+
+EDIT: As of 2025 I have switched to Worktree to support a local Canadian Git Hosting service. Links have been updated for such.
